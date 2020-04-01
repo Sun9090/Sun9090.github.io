@@ -1,0 +1,125 @@
+html 
+
+body {
+    background-color: #FFFFCC;
+    box-shadow: 0 0 1px rgb(128, 128, 128);
+    color:  #FFFFCC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25 px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width:2500px;
+
+}
+
+h1 {
+    color: #663300;
+    font-weight: 00;
+    font-size:80px;
+    text-align: left;
+    padding-left: 390px;
+    }
+
+h2 {
+    color: #663300;
+    font-weight: 00;
+    font-size:35px;
+    text-align: left;
+    padding-left: 390px;
+   }
+
+#header {
+    background-color: #999966;
+    color: whitesmoke;
+    text-align:left;
+    padding:50px;
+    opacity: 2;
+
+}
+
+#nav {
+    line-height:25px;
+    height: 3300px;
+    background-color: #999966;
+    opacity:2;
+    width:350px;
+    float:left;
+    padding:50px; 
+    font-size: 20px;
+    font-weight:bold;
+    padding-top: 20px
+}
+
+#div1 {
+    width:50%;
+    float: left;
+    background-color:#FFFFCC;
+    padding:0px 60px 60px 120px; 
+    line-height:60px;
+    font-size: 35px;
+    color: #663300
+}
+
+#div2 {
+    float: right;
+    margin-right:0px ;
+    width:20%;
+    padding:20px 60px 60px 60px;
+    background-color: #CCCC00;
+    margin-top: 30px;
+    height: 3260px;
+    color: #663300;
+    font-size: 20px;
+    font-weight: bold
+}   
+
+#footer {
+    background-color: #999966;
+    color:  rgb(241, 241, 238);
+    font-size: 30px;
+    clear:both;
+    text-align:center;
+    padding:0 px; 
+    line-height: 150px
+}
+
+
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+a{
+    display:block;  
+    background-color:#CCCC00;
+    color:rgb(121, 74, 41);
+    width:350px;
+    line-height: 200px;
+    text-align:center;
+    font-weight:bold;
+    padding: 15px,15px,15px,15px;
+    text-decoration:none;
+    font-size:35px
+
+}
+
+a:hover,a:active{
+    background-color:#999966;
+}
+
+table,table tr th, table tr td { 
+    border:30px solid rgb(12, 10, 10)
+}
+
+table { 
+    width: 600px; 
+    line-height: 100px; 
+    text-align: center; 
+    border-collapse: collapse;
+    background-color: #ede3f1;
+    color: white;
+    font-weight: bold;
+    padding:10px;
+
+} 
